@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "outDir": "../javascript",
+        "noEmitOnError": false
+    }
+}
