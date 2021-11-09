@@ -1,6 +1,6 @@
 {
+    "compileOnSave": true,
     "compilerOptions": {
-        "outDir": "../javascript",
-        "noEmitOnError": false
+        "outDir": "../javascript"
     }
 }
