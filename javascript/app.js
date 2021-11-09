@@ -4,3 +4,7 @@ var episode = 4;
 console.log("This is episode " + episode);
 episode = episode + 1;
 console.log("Next episode is " + episode);
+var favoriteDroid;
+favoriteDroid = 'BB-8';
+favoriteDroid = 10;
+console.log("My droid favorite is " + favoriteDroid);
