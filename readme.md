@@ -66,3 +66,17 @@
     ```bash
     npm install --save-dev @types/lodash@4.14
     ```
+
+14. criar aplicacao projeto
+
+    ```bash
+    ng new jedi-academy --prefix=jad
+    ```
+
+15. startar servidor de desenvolvimento
+
+    ```bash
+    ng serve
+    ```
+
+    
