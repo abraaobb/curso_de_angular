@@ -1,0 +1,10 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "outDir": "../javascript",
+        "noEmitOnError": false,
+        "typeRoots": [
+            "./06-importando-bibliotecas/node_modules/@types"
+        ]
+    }
+}

@@ -48,3 +48,12 @@
     ```bash
     node <nome-do-app>.js
     ```
+
+iniciando o npm
+npm init -f
+
+importando biblioteca, o --save indica que vai ser usado em desenvolvimento e runtime
+npm install --save lodash@4.14
+
+importando biblioteca indicando que vai ser usado apenas em desenvolvimento
+npm install --save-dev @types/lodash@4.14
