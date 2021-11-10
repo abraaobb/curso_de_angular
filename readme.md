@@ -1,27 +1,50 @@
-instalar o nvm
+1. instalar o nvm
 
-instalar uma versão do node
+2. instalar uma versão do node
 
-verificar versão do node
-```node -v```
+3. verificar versão do node
 
-instalar o angular cli
-```npm install -g @angular/cli```
+    ```bash
+    bashnode -v
+    ```
 
-verificar versão do angular
-```ng version```
+4. instalar o angular cli
 
-para instalar typescript
-npm install typescript -g
+    ```bash
+    npm install -g @angular/cli
+    ```
 
-verificar versão
-tsc -v
+5. verificar versão do angular
 
-pra compilar só um arquivo
-tsc app.ts
+    ``````bash
+    ng version
 
-para deixar compilando dinamico
-tsc -w
+6. para instalar typescript
 
-executar um arquivo javascript
-node <nome-do-app>.js
+    ```bash
+    npm install typescript -g
+    ```
+
+7. verificar versão
+
+    ```bash
+    tsc -v
+    ```
+
+8. pra compilar só um arquivo
+
+    ```bash
+    tsc app.ts
+    ```
+
+9. para deixar compilando dinâmico
+
+    ```bash
+    tsc -w
+    ```
+
+10. executar um arquivo javascript
+
+    ```bash
+    node <nome-do-app>.js
+    ```
