@@ -49,11 +49,20 @@
     node <nome-do-app>.js
     ```
 
-iniciando o npm
-npm init -f
+11. iniciando o npm
 
-importando biblioteca, o --save indica que vai ser usado em desenvolvimento e runtime
-npm install --save lodash@4.14
+    ```bash
+    npm init -f
+    ```
 
-importando biblioteca indicando que vai ser usado apenas em desenvolvimento
-npm install --save-dev @types/lodash@4.14
+12. importando biblioteca, o --save indica que vai ser usado em desenvolvimento e runtime
+
+    ```bash
+    npm install --save lodash@4.14
+    ```
+
+13. importando biblioteca indicando que vai ser usado apenas em desenvolvimento
+
+    ```bash
+    npm install --save-dev @types/lodash@4.14
+    ```
