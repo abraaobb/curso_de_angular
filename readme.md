@@ -1,3 +1,10 @@
+O projeto meat app está no repositório
+https://github.com/abraaobb/meat-app-starter
+
+------
+
+## Comandos
+
 1. instalar o nvm
 
 2. instalar uma versão do node
@@ -51,38 +58,36 @@
 
 11. iniciando o npm
 
-    ```bash
-    npm init -f
-    ```
+     ```bash
+     npm init -f
+     ```
 
 12. importando biblioteca, o --save indica que vai ser usado em desenvolvimento e runtime
 
-    ```bash
-    npm install --save lodash@4.14
-    ```
+     ```bash
+     npm install --save lodash@4.14
+     ```
 
 13. importando biblioteca indicando que vai ser usado apenas em desenvolvimento
 
-    ```bash
-    npm install --save-dev @types/lodash@4.14
-    ```
+     ```bash
+     npm install --save-dev @types/lodash@4.14
+     ```
 
 14. criar aplicacao projeto
 
-    ```bash
-    ng new jedi-academy --prefix=jad
-    ```
+     ```bash
+     ng new jedi-academy --prefix=jad
+     ```
 
 15. startar servidor de desenvolvimento
 
-    ```bash
-    ng serve
-    ```
+     ```bash
+     ng serve
+     ```
 
 16. Criar um componente
 
-    ```bash
-    ng g c header --spec=false
-    ```
-
-    
+     ```bash
+     ng g c header --spec=false
+     ```
