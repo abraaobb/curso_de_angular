@@ -79,4 +79,10 @@
     ng serve
     ```
 
+16. Criar um componente
+
+    ```bash
+    ng g c header --spec=false
+    ```
+
     
