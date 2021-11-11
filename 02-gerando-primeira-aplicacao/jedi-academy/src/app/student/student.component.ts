@@ -8,11 +8,7 @@ import { Student } from './student.model';
   styleUrls: ['./student.component.css'],
 })
 export class StudentComponent implements OnInit {
-  @Input() student: Student = {
-    name: 'Abraão',
-    isJedi: true,
-    temple: 'Tapauá',
-  };
+  @Input() student?: Student
 
   constructor() {}
 
